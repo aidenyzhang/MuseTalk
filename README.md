@@ -45,90 +45,73 @@ Note that although we use a very similar architecture as Stable Diffusion, MuseT
 
 ## Cases
 ### MuseV + MuseTalk make human photos alive！
-<table class="center">
-  <tr style="font-weight: bolder;text-align:center;">
-        <td width="33%">Image</td>
-        <td width="33%">MuseV</td>
-        <td width="33%">+MuseTalk</td>
-  </tr>
-  <tr>
-    <td>
-      <img src=assets/demo/musk/musk.png width="95%">
-    </td>
-    <td >
-      <video src=https://github.com/TMElyralab/MuseTalk/assets/163980830/4a4bb2d1-9d14-4ca9-85c8-7f19c39f712e controls preload></video>
-    </td>
-    <td >
-      <video src=https://github.com/TMElyralab/MuseTalk/assets/163980830/b2a879c2-e23a-4d39-911d-51f0343218e4 controls preload></video>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src=assets/demo/yongen/yongen.jpeg width="95%">
-    </td>
-    <td >
-      <video src=https://github.com/TMElyralab/MuseTalk/assets/163980830/57ef9dee-a9fd-4dc8-839b-3fbbbf0ff3f4 controls preload></video>
-    </td>
-    <td >
-      <video src=https://github.com/TMElyralab/MuseTalk/assets/163980830/94d8dcba-1bcd-4b54-9d1d-8b6fc53228f0 controls preload></video>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src=assets/demo/sit/sit.jpeg width="95%">
-    </td>
-    <td >
-      <video src=https://github.com/TMElyralab/MuseTalk/assets/163980830/5fbab81b-d3f2-4c75-abb5-14c76e51769e controls preload></video>
-    </td>
-    <td >
-      <video src=https://github.com/TMElyralab/MuseTalk/assets/163980830/f8100f4a-3df8-4151-8de2-291b09269f66 controls preload></video>
-    </td>
-  </tr>
-   <tr>
-    <td>
-      <img src=assets/demo/man/man.png width="95%">
-    </td>
-    <td >
-      <video src=https://github.com/TMElyralab/MuseTalk/assets/163980830/a6e7d431-5643-4745-9868-8b423a454153 controls preload></video>
-    </td>
-    <td >
-      <video src=https://github.com/TMElyralab/MuseTalk/assets/163980830/6ccf7bc7-cb48-42de-85bd-076d5ee8a623 controls preload></video>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src=assets/demo/monalisa/monalisa.png width="95%">
-    </td>
-    <td >
-      <video src=https://github.com/TMElyralab/MuseTalk/assets/163980830/1568f604-a34f-4526-a13a-7d282aa2e773 controls preload></video>
-    </td>
-    <td >
-      <video src=https://github.com/TMElyralab/MuseTalk/assets/163980830/a40784fc-a885-4c1f-9b7e-8f87b7caf4e0 controls preload></video>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src=assets/demo/sun1/sun.png width="95%">
-    </td>
-    <td >
-      <video src=https://github.com/TMElyralab/MuseTalk/assets/163980830/37a3a666-7b90-4244-8d3a-058cb0e44107 controls preload></video>
-    </td>
-    <td >
-      <video src=https://github.com/TMElyralab/MuseTalk/assets/163980830/172f4ff1-d432-45bd-a5a7-a07dec33a26b controls preload></video>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src=assets/demo/sun2/sun.png width="95%">
-    </td>
-    <td >
-      <video src=https://github.com/TMElyralab/MuseTalk/assets/163980830/37a3a666-7b90-4244-8d3a-058cb0e44107 controls preload></video>
-    </td>
-    <td >
-      <video src=https://github.com/TMElyralab/MuseTalk/assets/163980830/85a6873d-a028-4cce-af2b-6c59a1f2971d controls preload></video>
-    </td>
-  </tr>
-</table >
+### Input Video
+---
+https://github.com/TMElyralab/MuseTalk/assets/163980830/37a3a666-7b90-4244-8d3a-058cb0e44107
+
+---
+https://github.com/user-attachments/assets/89f2697d-582d-4c7f-9808-4473410d60f4
+
+---
+https://github.com/user-attachments/assets/fa3b13a1-ae26-4d1d-899e-87435f8d22b3
+
+---
+https://github.com/user-attachments/assets/15800692-39d1-4f4c-99f2-aef044dc3251
+
+---
+https://github.com/user-attachments/assets/8a09ae73-20fa-40ac-9191-3ad816594314
+
+---
+https://github.com/user-attachments/assets/3f50e939-f794-4c5c-a814-1d878c6df7c7
+
+</td>
+<td width="33%">
+
+### MuseTalk 1.0
+---
+https://github.com/user-attachments/assets/c04f3cd5-9f77-40e9-aafd-61978380d0ef
+
+---
+https://github.com/user-attachments/assets/feeb9ba9-6787-4192-b731-d7bdd63b64a9
+
+---
+https://github.com/user-attachments/assets/b5f56f71-5cdc-4e2e-a519-454242000d32
+
+---
+https://github.com/user-attachments/assets/a5843835-04ab-4c31-989f-0995cfc22f34
+
+---
+https://github.com/user-attachments/assets/3dc7f1d7-8747-4733-bbdd-97874af0c028
+
+---
+https://github.com/user-attachments/assets/3c78064e-faad-4637-83ae-28452a22b09a
+
+</td>
+<td width="33%">
+
+### MuseTalk 1.5
+---
+https://github.com/user-attachments/assets/999a6f5b-61dd-48e1-b902-bb3f9cbc7247
+
+---
+https://github.com/user-attachments/assets/b6cf57d7-2aa5-4e8a-9dd3-72c79cc6b0bc
+
+---
+https://github.com/user-attachments/assets/471290d7-b157-4cf6-8a6d-7e899afa302c
+
+---
+https://github.com/user-attachments/assets/1ee77c4c-8c70-4add-b6db-583a12faa7dc
+
+---
+https://github.com/user-attachments/assets/370510ea-624c-43b7-bbb0-ab5333e0fcc4
+
+---
+https://github.com/user-attachments/assets/b011ece9-a332-4bc1-b8b7-ef6e383d7bde
+
+</td>
+</tr>
+</table>
+
 
 * The character of the last two rows, `Xinying Sun`, is a supermodel KOL. You can follow her on [douyin](https://www.douyin.com/user/MS4wLjABAAAAWDThbMPN_6Xmm_JgXexbOii1K-httbu2APdG8DvDyM8).
 
