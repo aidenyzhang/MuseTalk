@@ -44,7 +44,10 @@ MuseTalk was trained in latent spaces, where the images were encoded by a freeze
 Note that although we use a very similar architecture as Stable Diffusion, MuseTalk is distinct in that it is **NOT** a diffusion model. Instead, MuseTalk operates by inpainting in the latent space with a single step.
 
 ## Cases
-### MuseV + MuseTalk make human photos alive！
+<table>
+<tr>
+<td width="33%">
+
 ### Input Video
 ---
 https://github.com/TMElyralab/MuseTalk/assets/163980830/37a3a666-7b90-4244-8d3a-058cb0e44107
